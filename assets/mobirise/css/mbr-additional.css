@@ -1874,6 +1874,56 @@ body {
     -webkit-flex-basis: initial !important;
   }
 }
+.cid-rjjrdxMOHz {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background: #ffffff;
+}
+.cid-rjjrdxMOHz .images-container.container-fluid {
+  padding: 0;
+}
+.cid-rjjrdxMOHz .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rjjrdxMOHz .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+}
+.cid-rjjrdxMOHz .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-rjjrdxMOHz .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-rjjrdxMOHz .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rjjrdxMOHz .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-rjjrdxMOHz .img-item {
+    width: 100% !important;
+  }
+  .cid-rjjrdxMOHz .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
+}
 .cid-riVA1g1han {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -3935,13 +3985,13 @@ body {
   }
 }
 .cid-rjdiecp9AH .mbr-text B {
-  color: #11941d;
+  color: #08530f;
 }
 .cid-rjdiecp9AH H5 {
   color: #073b4c;
 }
 .cid-rjdiecp9AH I {
-  color: #0f7699;
+  color: #073b4c;
 }
 .cid-rjcUobLfUp {
   padding-top: 30px;
@@ -4013,4 +4063,28 @@ body {
 }
 .cid-rjcUobLfUp P {
   text-align: left;
+}
+.cid-rjiFzxymHZ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rjiFzxymHZ .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rjiFzxymHZ .section-text {
+  padding: 2rem 0;
+  color: #0e9f1c;
+}
+.cid-rjiFzxymHZ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rjiFzxymHZ .inner-container {
+    width: 100% !important;
+  }
 }
