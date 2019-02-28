@@ -2117,6 +2117,105 @@ body {
 .cid-rjcOrIttaB P {
   text-align: left;
 }
+.cid-rjoiLjIfi3 {
+  padding-top: 105px;
+  padding-bottom: 15px;
+  background-color: #0f7699;
+}
+.cid-rjnXYNSMqF {
+  padding-top: 105px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/icce-2000x1702.png");
+}
+.cid-rjnXYNSMqF .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rjnXYNSMqF .container-table {
+  margin: 0 auto;
+}
+.cid-rjnXYNSMqF .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rjnXYNSMqF .dataTables_wrapper {
+  display: block;
+}
+.cid-rjnXYNSMqF .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rjnXYNSMqF .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rjnXYNSMqF table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #efefef;
+  margin-bottom: 0;
+}
+.cid-rjnXYNSMqF table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rjnXYNSMqF table th:hover {
+  background: #efefef;
+  color: #000000;
+}
+.cid-rjnXYNSMqF table td {
+  border-top: 1px solid #efefef;
+}
+.cid-rjnXYNSMqF table.table {
+  background: #ffffff;
+}
+.cid-rjnXYNSMqF .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rjnXYNSMqF .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rjnXYNSMqF .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rjnXYNSMqF .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rjnXYNSMqF .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rjnXYNSMqF .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rjnXYNSMqF .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rjnXYNSMqF .mbr-section-title {
+  color: #ff3366;
+}
+.cid-rjnXYNSMqF .mbr-section-title I {
+  color: #cc2952;
+}
+.cid-rjnXYNSMqF .mbr-section-subtitle B {
+  color: #073b4c;
+}
+.cid-rjnXYNSMqF .mbr-section-title B {
+  color: #0f7699;
+}
+.cid-rjnXYNSMqF I {
+  color: #ff3366;
+}
 .cid-riJyozNyiC .navbar {
   background: #ffffff;
   transition: none;
@@ -2508,14 +2607,6 @@ body {
 .cid-riJyozNyiC .nav-link:hover,
 .cid-riJyozNyiC .dropdown-item:hover {
   color: #08530f !important;
-}
-.cid-rjcZf3oQGA {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rjcZf3oQGA P {
-  color: #767676;
 }
 .cid-rjcUobLfUp {
   padding-top: 30px;
