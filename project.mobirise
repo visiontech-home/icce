@@ -62,7 +62,7 @@
         "title": "ICCE Home",
         "meta_descr": "Indian Council of Computer Education\n(An ISO 9001:2015 Certified Organization)\nBest computer tranning centre in Asansol ",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\n<script type=\"text/javascript\">function add_chatinline(){var hccid=39322994;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline();</script>",
         "html_before": ""
       },
       "components": [
@@ -899,6 +899,26 @@
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-section-subtitle": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content4",
+          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Article Title with Solid Background\n                </h2><div align=\"center\"><a href=\"http://online-visit-counter.com/\"><img src=\"http://online-visit-counter.com/cg.php?t=MTQzNjg4MA==\" border=\"0\" alt=\"visitor count\"></a><br><a href=\"http://online-visit-counter.com/\">visitor count</a><div style=\"visibility: hidden; display: none;\"><a href=\"https://www.creativealif.com/ar/\">العربية لوجو ديزاين السعودية</a></div></div>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content4-q",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rjEj7CfxUl",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = 'color')": {
               "background": "linear-gradient(0deg, @color2, @bg-value)"
             },
@@ -1019,7 +1039,8 @@
       "settings": {
         "meta_descr": "Computer Courses With Professional Courses Offered by Indian Council of Computer Education ",
         "title": "Courses",
-        "order": 2
+        "order": 2,
+        "footer_custom": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\n<script type=\"text/javascript\">function add_chatinline(){var hccid=39322994;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline();</script>\n\n<!-- Go to www.addthis.com/dashboard to customize your tools -->"
       },
       "components": [
         {
@@ -1672,7 +1693,8 @@
       "settings": {
         "meta_descr": "Here You Can Verify A Certifcate issued by \nInidian Council of Computer Education ",
         "title": "Certificate Verification",
-        "order": 3
+        "order": 3,
+        "footer_custom": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\n<script type=\"text/javascript\">function add_chatinline(){var hccid=39322994;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline();</script>"
       },
       "components": [
         {
@@ -2225,7 +2247,8 @@
       "settings": {
         "meta_descr": "Contact Details of Indian Council of Computer Education",
         "title": "Contact Us",
-        "order": 4
+        "order": 4,
+        "footer_custom": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\n<script type=\"text/javascript\">function add_chatinline(){var hccid=39322994;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline();</script>\n\n<!-- Go to www.addthis.com/dashboard to customize your tools -->\n"
       },
       "components": [
         {
@@ -2861,7 +2884,8 @@
       "settings": {
         "meta_descr": "Back End Page to Store Pop Ups",
         "title": "Back End Files",
-        "order": 5
+        "order": 5,
+        "footer_custom": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\n<script type=\"text/javascript\">function add_chatinline(){var hccid=39322994;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline();</script>"
       },
       "components": [
         {
@@ -2906,7 +2930,7 @@
         "title": "Registration Status",
         "order": 1,
         "header_custom": "",
-        "footer_custom": ""
+        "footer_custom": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\n<script type=\"text/javascript\">function add_chatinline(){var hccid=39322994;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline();</script>\n"
       },
       "components": [
         {
