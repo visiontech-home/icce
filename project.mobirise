@@ -62,7 +62,7 @@
         "title": "ICCE Online",
         "meta_descr": "Indian Council of Computer Education\n(An ISO 9001:2015 Certified Organization)\nBest computer tranning centre in Asansol ",
         "header_custom": "<link rel=\"stylesheet\" href=\"news_scroll.css\" type=\"text/css\">\n<link rel=\"stylesheet\" href=\"groupButton.css\" type=\"text/css\">",
-        "footer_custom": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\n<script type=\"text/javascript\">function add_chatinline(){var hccid=39322994;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline();</script>",
+        "footer_custom": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\n<script type=\"text/javascript\">function add_chatinline(){var hccid=39322994;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline();</script>\n<!-- Go to www.addthis.com/dashboard to customize your tools -->\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c8e4497dde05483\"></script>\n",
         "html_before": ""
       },
       "components": [
@@ -2628,7 +2628,7 @@
         "meta_descr": "Contact Details of Indian Council of Computer Education",
         "title": "Contact Us",
         "order": 5,
-        "footer_custom": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\n<script type=\"text/javascript\">function add_chatinline(){var hccid=39322994;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline();</script>\n\n<!-- Go to www.addthis.com/dashboard to customize your tools -->\n"
+        "footer_custom": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\n<script type=\"text/javascript\">function add_chatinline(){var hccid=39322994;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline();</script>\n\n<!-- Go to www.addthis.com/dashboard to customize your tools -->\n<!-- Go to www.addthis.com/dashboard to customize your tools -->\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c8e4497dde05483\"></script>\n"
       },
       "components": [
         {
