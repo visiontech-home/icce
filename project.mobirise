@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "icce-cet.in",
+    "name": "icce-cet.in-clone-clone-clone",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -49,7 +49,7 @@
     "gdpr": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-135371776-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-135371776-1');\r\n</script>\r\n",
     "сanonical-url": "",
-    "uniqCompNum": 42,
+    "uniqCompNum": 43,
     "versionPublish": "4.9.4",
     "screenshot": "screenshot.png",
     "snow": "",
@@ -61,7 +61,7 @@
         "main": true,
         "title": "ICCE Online",
         "meta_descr": "Indian Council of Computer Education\n(An ISO 9001:2015 Certified Organization)\nBest computer tranning centre in Asansol ",
-        "header_custom": "<link rel=\"stylesheet\" href=\"news_scroll.css\" type=\"text/css\">\n<link rel=\"stylesheet\" href=\"groupButton.css\" type=\"text/css\">",
+        "header_custom": "<link rel=\"stylesheet\" href=\"news_scroll.css\" type=\"text/css\">\n<link rel=\"stylesheet\" href=\"groupButton.css\" type=\"text/css\">\n<link rel=\"stylesheet\" href=\"flipCard.css\">",
         "footer_custom": "<!--Add the following script at the bottom of the web page (before </body></html>)-->\n<script type=\"text/javascript\">function add_chatinline(){var hccid=39322994;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\nadd_chatinline();</script>\n<!-- Go to www.addthis.com/dashboard to customize your tools -->\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c8e4497dde05483\"></script>\n",
         "html_before": ""
       },
@@ -1107,16 +1107,14 @@
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "background-color": "@bgColor",
-            ".mbr-section-subtitle": {
+            ".mbr-text, blockquote": {
               "color": "#767676"
             }
           },
-          "_name": "content4",
-          "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        \n            \n                <h3 mbr-if=\"showTitle\" class=\"align-center\"><div class=\"btn-group\" align=\"center\">\n  <button>Associate Login</button>\n  <button>Student Login</button>\n  <button>Payment     </button>\n  <button>Online Exam</button>\n</div></h3>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with sharp design and refine coded functions.\n                </h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            \n       \n    </div>\n</section>",
-          "_anchor": "content4-15",
-          "_isUserblock": true,
-          "_sourceTheme": "mobirise4",
-          "_cid": "rkUEsjCiiG",
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"cardx-container\">\n  <div class=\"cardx\">\n    <div class=\"side\"><img src=\"flip/alogin.png\" alt=\"VisionTech\"></div>\n    <div class=\"side back\">Associate Login</div>\n  </div>\n</div><div class=\"cardx-container\">\n  <div class=\"cardx\">\n    <div class=\"side\"><img src=\"flip/student.png\" alt=\"VisionTech\"></div>\n    <div class=\"side back\">Student Login</div>\n  </div>\n</div><div class=\"cardx-container\">\n  <div class=\"cardx\">\n    <div class=\"side\"><img src=\"flip/pay.png\" alt=\"VisionTech\"></div>\n    <div class=\"side back\">Payments</div>\n  </div>\n</div><div class=\"cardx-container\">\n  <div class=\"cardx\">\n    <div class=\"side\"><img src=\"flip/exam.png\" alt=\"VisionTech\"></div>\n    <div class=\"side back\">Online Exam</div>\n  </div>\n</div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rl0EbFTbED",
+          "_anchor": "content1-16",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
