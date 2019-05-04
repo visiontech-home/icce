@@ -2218,51 +2218,6 @@ body {
 .cid-rl0EbFTbED blockquote {
   color: #767676;
 }
-.cid-rkpEXY1Sbn {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rkpEXY1Sbn .mbr-section-subtitle {
-  color: #cc2952;
-}
-.cid-rkpEXY1Sbn .formoid {
-  margin: auto;
-}
-.cid-rkpEXY1Sbn .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-rkpEXY1Sbn .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  margin: 0 !important;
-}
-.cid-rkpEXY1Sbn a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-rkpEXY1Sbn a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-@media (max-width: 768px) {
-  .cid-rkpEXY1Sbn .mbr-form .row {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-rkpEXY1Sbn .form-group,
-  .cid-rkpEXY1Sbn .input-group-btn,
-  .cid-rkpEXY1Sbn .input-group-btn .btn {
-    max-width: 300px;
-    width: 100%;
-  }
-}
-@media (min-width: 769px) {
-  .cid-rkpEXY1Sbn .mbr-form .row > * {
-    padding: 0 0.5rem;
-  }
-}
 .cid-riVKEb1dtX {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -3979,46 +3934,6 @@ body {
   color: #232323;
 }
 .cid-rjFYvIgI2A .card-title {
-  color: #11941d;
-}
-.cid-rjMeAaWtOh {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rjMeAaWtOh .card-box {
-  background-color: #f2f2f2;
-  padding: 2rem;
-}
-.cid-rjMeAaWtOh h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rjMeAaWtOh p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rjMeAaWtOh .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rjMeAaWtOh .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-rjMeAaWtOh .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-rjMeAaWtOh P {
-  color: #232323;
-}
-.cid-rjMeAaWtOh .card-title {
   color: #11941d;
 }
 .cid-rjzYGyvZdT {
